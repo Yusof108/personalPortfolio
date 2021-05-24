@@ -1,0 +1,102 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#pic{
+    max-width: 100%;
+}
+h1{
+    color: #c7493a;
+}
+
+.progress{
+    height: 5px;
+}
+
+nav{
+    background-color: #252526;
+    
+    
+}
+.nav-link{
+    color: #c7493a !important ; 
+    font-size: 25px;
+    
+}
+
+
+
+canvas{
+    max-height: 300px;
+    
+}
+
+i{
+    color: #c7493a;
+}
+
+.prof{
+    background-color: #252526;
+    text-align: center;
+    border-radius: 5%;
+    font-size: 20px;
+    box-shadow: 0 0 20px 3px #785228;
+}
+
+.card{
+    background-color: #252526;
+    
+    box-shadow: 0 0 20px 3px #785228;
+}
+
+
+.card-img-top{
+    max-height: 120px;
+}
+
+table, td{
+    border-spacing: 15px;
+    padding: 0 20px 5px 0;
+}
+table{
+    background-color:#252526 ;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+
+.title{
+    color: #c7493a;
+    font-weight: bolder;
+    font-size: 35px;
+    
+   
+}
+
+.btn-primary{
+    background-color:#c7493a ;
+}
+
+td:nth-child(1) {  
+    color: #c7493a;
+    font-weight: bolder;
+  }
+
+  .skill{
+    font-size: 25px;
+    background-color:#252526 ;
+    
+  }
+
+ #head{
+     font-weight: bolder;
+     font-size: 70px;
+     text-align: center;
+ }
+
+ #subHead{
+    font-size: 30px;
+ }
+
